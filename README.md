@@ -1,2 +1,2 @@
 # diabetes_risk_predictor
-js for fun
+Project for School Exhibition
